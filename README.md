@@ -14,7 +14,7 @@ To download the Dataset click [here](https://www.kaggle.com/c/dogs-vs-cats/data)
 ### Objective
 To build a deep learning classification model which classify whether images contain either a dog or cat.
 ### How To Run
-- Step-1: Download this repository.
+- Step-1: Clone or download this repository.
 - Step-2: Download the model from [here](https://drive.google.com/file/d/1dVgI5xM9quI8ua8OpFwkpxLZmzcf3sfE/view?usp=sharing).Move the downloaded model into project folder.
 - Step-3: In command prompt,go to this project directory.
 - Step-4: Run this command.<code>python app.py</code>
